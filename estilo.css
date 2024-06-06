@@ -1,0 +1,11 @@
+:root{
+    --cor-defundo: #cecece;
+    --cor-texto: #000;
+}
+
+body{
+    background-color: var(--cor-defundo);
+}
+.cabecalho{
+    background-color: #12372A;
+}
