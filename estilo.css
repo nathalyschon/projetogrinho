@@ -90,3 +90,10 @@ align-items: center;
     font-family: "Josefin Sans", sans-serif;
 }
 
+.container--quatro{
+    padding: 20px;
+    color: aliceblue;
+    margin-bottom: 25px;
+    font-family: "Josefin Sans", sans-serif;
+
+}
