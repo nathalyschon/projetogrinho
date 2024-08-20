@@ -49,5 +49,8 @@ background-color: #536B2B;
  background-image: url(./img/2023_09_11_FIA-MeioAmbiente-CapaBlog\ 1\ \(2\).png);
     background-size: cover;  
     background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
