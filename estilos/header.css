@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 .cabeçalho {
     background-color: aliceblue;
@@ -7,4 +7,15 @@
     align-items: center;
     position: relative;
 }
+.container{
+    position: relative;
+}
+
+
+.container-titulo{
+    font-size: 80px;
+    color: aliceblue;
+    position:absolute;
+    top: 15px;
+    font-family: "Josefin Sans", sans-serif;
 
