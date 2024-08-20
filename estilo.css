@@ -4,8 +4,8 @@
 @import url();
 
 :root{
-    --cor-de-fundo: ;
-    --cor-de-texto: ;
+    --cor-de-fundo:#77A42E ;
+    --cor-de-texto:white ;
 
 }
 body{
