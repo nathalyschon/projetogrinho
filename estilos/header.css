@@ -1,14 +1,7 @@
-.cabeçalho {
-    background-image:url(../img/menu2-removebg-preview.png) ;
-    width: 24px;
-    height: 24px;
-    display: flex
-    background-repeat: no-repeat;
-    background-position: center;
-}
+
 
 .cabeçalho {
-    background-color: var(--branco);
+    background-color: aliceblue;
     display: flex;
     justify-content: space-between;
     align-items: center;
