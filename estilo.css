@@ -38,12 +38,15 @@ body{
     background: black;
     font-size: 30px;
     color: aliceblue;
+    margin: 0%;
 }
 .container--dois{
 background-color: #536B2B;
+margin: 0%;
 }
 .container--tres{
    background: #536B2B;
+   margin: 0%;
 }
 .container--quatro{
  background-image: url(./img/2023_09_11_FIA-MeioAmbiente-CapaBlog\ 1\ \(2\).png);
