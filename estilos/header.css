@@ -4,12 +4,6 @@
 
 
 
-.cabeçalho {
-    background: rgb(0, 0, 0);
-    display: block;
-    unicode-bidi: isolate;
-}
-
 
 .container{
     position: relative;
