@@ -34,3 +34,8 @@ body{
     align-items: center;
     justify-content:space-between;
 }
+.container{
+    background: black;
+    font-size: 30px;
+    color: aliceblue;
+}
