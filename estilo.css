@@ -54,3 +54,11 @@ background-color: #536B2B;
     align-items: center;
 
 }
+.container--img--tres{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+
