@@ -48,5 +48,7 @@ background-color: #536B2B;
 .container--quatro{
  background-image: url(./img/1814.jpg);
     background-size: cover;  
+    display: flex;
+    background-repeat: no-repeat;
 
 }
