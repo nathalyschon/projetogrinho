@@ -48,7 +48,6 @@ background-color: #536B2B;
 .container--quatro{
  background-image: url(./img/2023_09_11_FIA-MeioAmbiente-CapaBlog\ 1\ \(2\).png);
     background-size: cover;  
-    display: flex;
     background-repeat: no-repeat;
 
 }
