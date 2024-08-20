@@ -1,7 +1,7 @@
 .cabeçalho {
     width: 24px;
     height: 24px;
-    display: inline-block;
+    display: flexbox
     background-image: url("../menu2-removebg-preview.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -27,7 +27,7 @@
 .lista-menu {
     display: none;
     position: absolute;
-    top: 100%;
+    top: 50%;
     width: 60vw;
 }
 
