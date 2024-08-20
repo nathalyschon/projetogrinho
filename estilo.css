@@ -30,6 +30,7 @@ body{
 }
 .cabecalho{
     background: black;
-    display: block;
-    unicode-bidi: isolate;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
 }
