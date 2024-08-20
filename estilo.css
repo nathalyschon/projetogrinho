@@ -58,9 +58,9 @@ margin: 0%;
 
 }
 .container--img--tres{
-    align-items: center;
-    justify-content: center;
-    display: flex;
+    width:70%;
+    height:50%;
+    
 
 }
 
