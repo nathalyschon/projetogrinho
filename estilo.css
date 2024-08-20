@@ -40,5 +40,5 @@ body{
     color: aliceblue;
 }
 .container--dois{
-    background: linear-gradient(180deg, #536B2B(181,125,87,1) 30%, #313A23(98,72,54,1) 100%);
+background-color: #536B2B;
 }
