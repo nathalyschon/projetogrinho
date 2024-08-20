@@ -58,9 +58,10 @@ margin: 0%;
 
 }
 .container--img--tres{
-    width:70%;
+    width:60%;
     height:50%;
-    
+    background-size: contain;
+
 
 }
 
