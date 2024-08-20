@@ -10,6 +10,7 @@
 }
 body{
     background-color: var(--cor-de-fundo);
+    
 }
 .container--botao{
     background-color: var(--botao-principal);
