@@ -1,8 +1,8 @@
 .cabeçalho {
+    background-image:url(../img/menu2-removebg-preview.png) ;
     width: 24px;
     height: 24px;
     display: flex
-    background-image:url("../menu2-removebg-preview.png");
     background-repeat: no-repeat;
     background-position: center;
 }
