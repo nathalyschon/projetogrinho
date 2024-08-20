@@ -43,10 +43,18 @@ body{
 .container--dois{
 background-color: #536B2B;
 margin: 0%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
 }
 .container--tres{
    background: #536B2B;
    margin: 0%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
 }
 .container--quatro{
  background-image: url(./img/2023_09_11_FIA-MeioAmbiente-CapaBlog\ 1\ \(2\).png);
