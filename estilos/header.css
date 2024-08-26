@@ -4,8 +4,11 @@
 
 
 
-
-.container{
-    position: relative;
+@media  screen and(min-widht: 1024px)
+.container__titulo{
+    display: block;
 }
+    .opcoes{
+        display: block;
+    }
 
