@@ -101,13 +101,13 @@ align-items: center;
 
 @media (min-width: 1024px){
    .container-titulo{
-    font-size: 40px;
+    font-size: 70px;
    }
 
    .descricao--texto{
     font-size: 25px;
    }
    .descricao--titulo1{
-    font-size: 30px;
+    font-size: 50px;
    }
     
