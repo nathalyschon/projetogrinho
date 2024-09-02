@@ -105,6 +105,9 @@ align-items: center;
    }
 
    .descricao--texto{
+    font-size: 25px;
+   }
+   .descricao--titulo1{
     font-size: 30px;
    }
     
