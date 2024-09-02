@@ -4,7 +4,7 @@
 
 
 
-@media  screen and(min-widht: 1024px)
+@media (min-width: 1024px){
 .container__titulo{
     display: block;
 }
@@ -12,3 +12,4 @@
         display: block;
     }
 
+}

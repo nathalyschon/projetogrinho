@@ -98,3 +98,13 @@ align-items: center;
     font-family: "Josefin Sans", sans-serif;
 
 }
+
+@media (min-width: 1024px){
+   .container-titulo{
+    font-size: 40px;
+   }
+
+   .descricao--texto{
+    font-size: 30px;
+   }
+    
