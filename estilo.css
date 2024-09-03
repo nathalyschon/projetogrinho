@@ -53,6 +53,9 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 }
+.descricao--texto{
+    display: flex;
+}
 .container--tres{
    background: #6F962E;
    margin: 0%;

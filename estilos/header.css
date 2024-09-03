@@ -6,12 +6,3 @@
     color: white;
 }
 
-@media (min-width: 1024px){
-.container__titulo{
-    display: block;
-}
-    .opcoes{
-        display: block;
-    }
-
-}
