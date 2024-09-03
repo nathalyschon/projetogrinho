@@ -55,6 +55,7 @@ align-items: center;
 }
 .descricao--texto{
     display: flex;
+    text-align: right;
 }
 .container--tres{
    background: #6F962E;
