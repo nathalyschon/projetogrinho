@@ -112,7 +112,7 @@ align-items: center;
     font-size: 60px;
    }
    .container--descricao{
-    disp
+    display: flex;
    }
 
 
