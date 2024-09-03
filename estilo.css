@@ -45,8 +45,7 @@ body{
     align-items: center;
 }
 .container--dois{
-    
-    background: rgb(55,93,49);
+     background: rgb(55,93,49);
     background: linear-gradient(90deg, rgba(55,93,49,1) 0%, rgba(51,139,50,1) 49%, rgba(54,88,48,1) 97%);
 margin: 0%;
 display: flex;
