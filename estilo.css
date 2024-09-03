@@ -35,7 +35,7 @@ body{
     
 }
 .container{
-    background: black;
+    background: rgb(255, 255, 255);
     font-size: 35px;
     color: aliceblue;
     margin: 0%;
