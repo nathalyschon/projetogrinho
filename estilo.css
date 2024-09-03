@@ -52,6 +52,10 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
+.descricao--titulo1{
+    text-align: right;
+
+}
 }
 .descricao--texto{
     display: flex;
