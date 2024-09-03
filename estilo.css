@@ -61,7 +61,12 @@ align-items: center;
     display: flex;
 flex-direction: column;
     text-align: right;
-    font-size: 20px;
+    font-size: 30px;
+}
+.container--img{
+    background-image:url(./img/images-removebg-preview\ \(1\)\ 1.png);
+    text-align: left;
+
 }
 .container--tres{
    background: #6F962E;
