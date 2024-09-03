@@ -65,7 +65,7 @@ flex-direction: column;
 }
 .container--img{
     background-image:url(./img/images-removebg-preview\ \(1\)\ 1.png);
-    text-align:top;
+    text-align: left;
 
 }
 .container--tres{
