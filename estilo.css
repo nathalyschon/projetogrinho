@@ -27,6 +27,14 @@ body{
   width: 10%;
 
 }
+.logo3{
+ position: absolute;
+    left: 70px;
+  }
+  
+  .container--tres {
+    position: relative;
+  }
 .cabecalho{
     background: black;
     display: flex;
