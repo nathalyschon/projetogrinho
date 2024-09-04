@@ -87,6 +87,8 @@ flex-direction: column;
    flex-direction: column;
    justify-content: center;
    align-items: center;
+   width: 500px;
+   height: 500px;
 }
 .container--quatro{
  background-image: url(./img/2023_09_11_FIA-MeioAmbiente-CapaBlog\ 1\ \(2\).png);
