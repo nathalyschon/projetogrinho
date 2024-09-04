@@ -29,7 +29,7 @@ body{
 }
 .logo3{
  position: relative;
-    left: 40px;
+    left: 70px;
     width: 200px;
 height 200px;
   }
@@ -87,8 +87,6 @@ flex-direction: column;
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   width: 1500px;
-   height: 1500px;
 }
 .container--quatro{
  background-image: url(./img/2023_09_11_FIA-MeioAmbiente-CapaBlog\ 1\ \(2\).png);
