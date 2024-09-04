@@ -30,7 +30,7 @@ body{
 .logo3{
  position: absolute;
     left: 70px;
-    top:0px;
+    margin-top: -40px;
   }
   
   .logo4 {
