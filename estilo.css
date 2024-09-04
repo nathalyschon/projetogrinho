@@ -29,13 +29,14 @@ body{
 }
 .logo3{
  position: relative;
-    left: 70px;
+    
     width: 200px;
 height 200px;
   }
   
   .logo4 {
     position: absolute;
+    left: 70px;
     width: 200px;
 height 200px;
   }
