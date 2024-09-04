@@ -31,10 +31,14 @@ body{
  position: absolute;
     left: 70px;
     margin-top: -40px;
+    width: 200px;
+height 200px;
   }
   
   .logo4 {
     position: relative;
+    width: 200px;
+height 200px;
   }
 .cabecalho{
     background: black;
